@@ -22,6 +22,7 @@ We’ve built expertise across many domains — from **Web3** to **robotics** �
 - 🏥 Healthcare
 - 🧠 Artificial Intelligence
 - 💰 Fintech
+- 🏨 HoReCa
 - 🛒 eCommerce
 - 🎓 Edtech
 
