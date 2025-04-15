@@ -1,6 +1,7 @@
+![Cybergizer - Headz On](./cg_cover.png)
 ## Welcome to Cybergizer 👋
 
-**Cybergizer** is a software company that helps businesses grow by scaling their apps and upgrading their technology.  
+**Cybergizer** is a software company that helps businesses grow by scaling their apps and upgrading their technology.
 We work closely with our clients to understand their needs and support their growth at every stage — from idea to launch and beyond.
 
 ### What We Value
@@ -9,10 +10,10 @@ We work closely with our clients to understand their needs and support their gro
 - 🌐 Active participation in global tech communities
 
 ### Our Story
-We've been part of the tech world for over **9 years**, growing from contributors to leaders:  
-- Helped shape the **Ruby** community  
-- Active contributors to **open-source** projects  
-- Advancing innovation in the **global AI** space  
+We've been part of the tech world for over **9 years**, growing from contributors to leaders:
+- Helped shape the **Ruby** community
+- Active contributors to **open-source** projects
+- Advancing innovation in the **global AI** space
 
 ### Where We Work
 With a global presence, our developers start their day with the sunrise in **Japan** and wrap up with the sunset in **San Francisco**.
@@ -27,12 +28,12 @@ We’ve built expertise across many domains — from **Web3** to **robotics** �
 - 🎓 Edtech
 
 We support the full product lifecycle:
-- System design  
-- Development  
-- Testing  
-- Maintenance  
+- System design
+- Development
+- Testing
+- Maintenance
 
 ---
 
-**Whether you want to collaborate with us or join the team — let’s build something great together.**  
+**Whether you want to collaborate with us or join the team — let’s build something great together.**
 🔗 [Learn more](https://cybergizer.com)
